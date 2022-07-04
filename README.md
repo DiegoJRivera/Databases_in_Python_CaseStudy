@@ -1,0 +1,2 @@
+# Databases_in_Python_CaseStudy
+From Data Camp: Introduction to Databases in Python Chapter 5: Putting it all together Preparing SQLAlchemy and the database Loading data into the database Solving data science problems with queries The case study is broken down into three parts. First, I'm going to prepare SQLAlchemy and the database. Next, I will load the data into the database. And finally, we solve a few data science type problems with my query knowledge.
